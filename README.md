@@ -5,3 +5,4 @@ SOME TEXT
 ## Local Development
 
 Open index.html in your browser
+Some more changes
